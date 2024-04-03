@@ -24,11 +24,11 @@ author:
   avatar           : "zrr.png"
   # name             : "Your Sidebar Name"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  bio              : "Ph.D, Northwestern Polytechnical University"
+  location         : "Jinan"
+  employer         : "Qilu University of Technology (Shandong Academy of Sciences)"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "rrzhang@qlu.edu.cn" 
 
   # Academic websites
   # arxiv            : # URL - Update with the correct link to your profile
